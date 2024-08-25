@@ -20,7 +20,7 @@ export default function Sign() {
 
 
 <div className="flex justify-center">
-  <button className="bg-yellow-400 text-black text-center"><Link href="./about">Enter</Link></button>
+  <button className="bg-yellow-400 text-black  text-center"><Link href="./about">SUBMIT</Link></button>
   </div>
 </div>
 <div/>
